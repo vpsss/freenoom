@@ -1,5 +1,4 @@
 <div align="center">
-    aasd
 <h1>Freenom：freenom域名自动续期</h1>
 
 [![构建状态](https://img.shields.io/badge/build-passed-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom /构建状态/主）
